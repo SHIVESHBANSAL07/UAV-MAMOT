@@ -7,8 +7,6 @@
 ## Project Abstract
 This project implements a Metadata-Assisted Multi-Object Tracking (MA-MOT) system for UAV-based surveillance using YOLOv8 and OpenCV. The system fuses drone sensor data (GPS, altitude, camera yaw) with a Kalman filter tracker to reduce identity switches caused by camera motion. Trained on VisDrone2019-DET dataset achieving 87.8% mAP50 on car detection.
 
-## Project Output Video
-[Watch Demo on YouTube](PASTE_YOUTUBE_LINK_HERE)
 
 ## Problem Statement
 Tracking small objects in drone video is difficult due to:
