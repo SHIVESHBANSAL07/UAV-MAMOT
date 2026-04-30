@@ -55,7 +55,10 @@ Input Video
 | Precision | - | 0.869 |
 | Recall | - | 0.815 |
 
+
 ## Project Structure
+
+```
 UAV-MAMOT/
 ├── main.py
 ├── inference.py
@@ -67,7 +70,9 @@ UAV-MAMOT/
 ├── logger.py
 ├── requirements.txt
 └── metadata/
-└── drone_meta.json
+    └── drone_meta.json
+```
+
 ## Setup Instructions
 ```bash
 git clone https://github.com/SHIVESHBANSAL07/UAV-MAMOT.git
