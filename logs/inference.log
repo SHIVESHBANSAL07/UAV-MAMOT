@@ -110,3 +110,16 @@
 2026-04-30 11:57:19 [INFO] Meta:   c:\Users\Shivesh\Desktop\uav\metadata/drone_meta.json
 2026-04-30 11:57:19 [INFO] ==================================================
 2026-04-30 11:57:19 [INFO] Starting MA-MOT inference pipeline...
+2026-04-30 21:25:22 [INFO] ==================================================
+2026-04-30 21:25:22 [INFO] UAV Maritime MA-MOT System Starting
+2026-04-30 21:25:22 [INFO] Model:  c:\Users\Shivesh\Desktop\uav\models/maritime_v1/weights/best.pt
+2026-04-30 21:25:22 [INFO] Input:  c:\Users\Shivesh\Desktop\uav\videos/test.mp4
+2026-04-30 21:25:22 [INFO] Meta:   c:\Users\Shivesh\Desktop\uav\metadata/drone_meta.json
+2026-04-30 21:25:22 [INFO] ==================================================
+2026-04-30 21:25:22 [INFO] Starting MA-MOT inference pipeline...
+2026-04-30 21:28:52 [INFO] FINAL RESULTS:
+2026-04-30 21:28:52 [INFO]   Avg Inference Time : 573.02 ms
+2026-04-30 21:28:52 [INFO]   Average FPS        : 1.75
+2026-04-30 21:28:52 [INFO]   Total ID Switches  : 0
+2026-04-30 21:28:52 [INFO]   Output saved to    : c:\Users\Shivesh\Desktop\uav\outputs\tracked_output.mp4
+2026-04-30 21:28:52 [INFO] System shutdown complete.
