@@ -83,3 +83,30 @@
 2026-04-27 14:41:52 [INFO]   Total ID Switches  : 0
 2026-04-27 14:41:52 [INFO]   Output saved to    : C:\Users\Shivesh\Desktop\uav\outputs\tracked_output.mp4
 2026-04-27 14:41:52 [INFO] System shutdown complete.
+2026-04-30 02:35:54 [INFO] ==================================================
+2026-04-30 02:35:54 [INFO] UAV Maritime MA-MOT System Starting
+2026-04-30 02:35:54 [INFO] Model:  C:\Users\Shivesh\Desktop\uav\models/maritime_v1/weights/best.pt
+2026-04-30 02:35:54 [INFO] Input:  C:\Users\Shivesh\Desktop\uav\videos/test.mp4
+2026-04-30 02:35:54 [INFO] Meta:   C:\Users\Shivesh\Desktop\uav\metadata/drone_meta.json
+2026-04-30 02:35:54 [INFO] ==================================================
+2026-04-30 02:35:54 [INFO] Starting MA-MOT inference pipeline...
+2026-04-30 10:44:32 [INFO] ==================================================
+2026-04-30 10:44:32 [INFO] UAV Maritime MA-MOT System Starting
+2026-04-30 10:44:32 [INFO] Model:  c:\Users\Shivesh\Desktop\uav\models/maritime_v1/weights/best.pt
+2026-04-30 10:44:32 [INFO] Input:  c:\Users\Shivesh\Desktop\uav\videos/test.mp4
+2026-04-30 10:44:32 [INFO] Meta:   c:\Users\Shivesh\Desktop\uav\metadata/drone_meta.json
+2026-04-30 10:44:32 [INFO] ==================================================
+2026-04-30 10:44:32 [INFO] Starting MA-MOT inference pipeline...
+2026-04-30 10:48:45 [INFO] FINAL RESULTS:
+2026-04-30 10:48:45 [INFO]   Avg Inference Time : 694.01 ms
+2026-04-30 10:48:45 [INFO]   Average FPS        : 1.44
+2026-04-30 10:48:45 [INFO]   Total ID Switches  : 0
+2026-04-30 10:48:45 [INFO]   Output saved to    : c:\Users\Shivesh\Desktop\uav\outputs\tracked_output.mp4
+2026-04-30 10:48:45 [INFO] System shutdown complete.
+2026-04-30 11:57:19 [INFO] ==================================================
+2026-04-30 11:57:19 [INFO] UAV Maritime MA-MOT System Starting
+2026-04-30 11:57:19 [INFO] Model:  c:\Users\Shivesh\Desktop\uav\models/maritime_v1/weights/best.pt
+2026-04-30 11:57:19 [INFO] Input:  c:\Users\Shivesh\Desktop\uav\videos/test.mp4
+2026-04-30 11:57:19 [INFO] Meta:   c:\Users\Shivesh\Desktop\uav\metadata/drone_meta.json
+2026-04-30 11:57:19 [INFO] ==================================================
+2026-04-30 11:57:19 [INFO] Starting MA-MOT inference pipeline...
